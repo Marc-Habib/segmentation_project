@@ -64,7 +64,7 @@ The application consists of three main sections:
 
 ## System Architecture
 
-![System Architecture](/segmentation_project/SCHEMA%20ARCHITECTURE.png)
+![System Architecture](SCHEMA%20ARCHITECTURE.png)
 
 The system is built on a layered architecture, hosted in a Dockerized environment on Hugging Face Spaces:
 
